@@ -1,0 +1,29 @@
+{
+  "name": "tiktak",
+  "version": "1.0.0",
+  "description": "Google auth code for TakThat",
+  "main": "googleAuth.js",
+  "dependencies": {
+    "google-auth-library": "^1.3.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ljreader/TikTak.git"
+  },
+  "keywords": [
+    "google",
+    "auth",
+    "authentication",
+    "Takthat"
+  ],
+  "author": "ljreader",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ljreader/TikTak/issues"
+  },
+  "homepage": "https://github.com/ljreader/TikTak#readme"
+}
